@@ -2,4 +2,4 @@
 
 A MERN app course by Brad Traversy
 
-Deployed app [HERE](https://shrouded-oasis-88466.herokuapp.com/):
+[Deployed app](https://serene-springs-55449.herokuapp.com/)
